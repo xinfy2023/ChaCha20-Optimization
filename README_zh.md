@@ -8,7 +8,7 @@
 **🌐 Language Selection / 语言选择**
 
 [![中文](https://img.shields.io/badge/中文-当前-red.svg)](README_OPTIMIZATION_zh.md)
-[![English](https://img.shields.io/badge/English-Switch-blue.svg)](README_OPTIMIZATION.md)
+[![English](https://img.shields.io/badge/English-Switch-blue.svg)](README.md)
 
 </div>
 
